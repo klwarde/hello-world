@@ -1,6 +1,14 @@
 # hello-worldings
 ----
 
-I am a **technical writer**. 
+👋 Hi, I'm Kathy.
 
-I enjoy urban exploring and taking photos of street art and flowers. Aside from photography, I like to draw and paint, and pursue my own digital design projects using Photoshop and Illustrator. You can see some of my art and infographics projects on my personal website www.quillshadow.com. My current technical interests include API docs, Docs-as-code, HTML/CSS, SVG, and web animation technologies.
+I'm a Technical Writer. 
+
+🚶‍♀️:seedling:🌺🎨 
+
+I enjoy walking, taking photos of street art and flowers, drawing, painting and digital design. Check out some of my art and infographics projects on my personal website www.quillshadow.com. 
+
+👾 :writing_hand: 
+
+I'm currently learning about API docs, Docs-as-code, HTML/CSS, SVG, and web animation technologies.
